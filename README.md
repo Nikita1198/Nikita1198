@@ -36,5 +36,5 @@ A few words about me:
 
 ### Contacts:
 <p align="center">
-  <a href="linkedin.com/in/nikita-ivanov-699102298"><img width="30px" src="https://simpleicons.org/icons/linkedin.svg" alt="Nikita Ivanov | Linkedin"/></a>
+  <a href="https://www.linkedin.com/in/nikita-ivanov-699102298/"><img width="30px" src="https://simpleicons.org/icons/linkedin.svg" alt="Nikita Ivanov | Linkedin"/></a>
   <a href="https://t.me/Ironjoni"><img width="30px" src="https://simpleicons.org/icons/telegram.svg" alt="Nikita Ivanov | Telegram"/></a>
