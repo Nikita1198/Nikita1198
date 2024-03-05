@@ -11,21 +11,23 @@ A few words about me:
 ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat-square&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-FFFFFF?style=flat-square&logo=SASS)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat-square&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=typescript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-FFFFFF?style=flat-square&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-FFFFFF?style=flat-square&logo=Redux&logoColor=31008D)&nbsp;
 ![MobX](https://img.shields.io/badge/-MobX-FFFFFF?style=flat-square&logo=mobx&logoColor=#CD672E)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logo=python)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-FFFFFF?style=flat-square&logo=.net)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat-square&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-FFFFFF?style=flat-square&logo=express)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat-square&logo=postgresql)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat-square&logo=mongodb)&nbsp;
 
 ### Tools:
 
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FFFFFF?style=flat-square&logo=gitlab)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-FFFFFF?style=flat-square&logo=eslint&logoColor=4a31c3)&nbsp;
