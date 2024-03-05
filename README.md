@@ -1,16 +1,38 @@
-### Hi there 👋
+## Hi, I'm Nikita Ivanov
 
-<!--
-**Nikita1198/Nikita1198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Rostov-on-Don.
 
-Here are some ideas to get you started:
+A few words about me:
+- To me, JavaScript is like coffee – absolutely essential in the morning, but too much and I’m debugging until midnight. ☕💻
+- From Astrophysicist to Software Developer: 🚀💻🌌 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies:
+
+![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat-square&logo=HTML5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-FFFFFF?style=flat-square&logo=SASS)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat-square&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=typescript)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-FFFFFF?style=flat-square&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-FFFFFF?style=flat-square&logo=Redux&logoColor=31008D)&nbsp;
+![MobX](https://img.shields.io/badge/-MobX-FFFFFF?style=flat-square&logo=mobx&logoColor=#CD672E)&nbsp;
+![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logo=python)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-FFFFFF?style=flat-square&logo=.net)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat-square&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-FFFFFF?style=flat-square&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat-square&logo=mongodb)&nbsp;
+
+### Tools:
+
+![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-FFFFFF?style=flat-square&logo=gitlab)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![ESLint](https://img.shields.io/badge/-ESLint-FFFFFF?style=flat-square&logo=eslint&logoColor=4a31c3)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-FFFFFF?style=flat-square&logo=prettier)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=flat-square&logo=figma)&nbsp;
+
+### Contacts:
+<p align="center">
+  <a href="linkedin.com/in/nikita-ivanov-699102298"><img width="30px" src="https://simpleicons.org/icons/linkedin.svg" alt="Nikita Ivanov | Linkedin"/></a>
+  <a href="https://t.me/Ironjoni"><img width="30px" src="https://simpleicons.org/icons/telegram.svg" alt="Nikita Ivanov | Telegram"/></a>
