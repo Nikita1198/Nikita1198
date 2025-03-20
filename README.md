@@ -1,7 +1,5 @@
 ## Hi, I'm Nikita Ivanov
 
-I'm a Data Engineer from Rostov-on-Don.
-
 - From Astrophysicist to Data Engineer
 
 ### Technologies:
