@@ -1,4 +1,4 @@
-# Nikita Ivanov (Инженер данных | Бывший астрофизик)
+## Nikita Ivanov | Data Engineer
 
 ### Проекты
 - [vilky.ru](https://vilky.ru) - Аналитика зарплат в IT РФ.
