@@ -1,4 +1,4 @@
-## Nikita Ivanov | Data Engineerё
+## Nikita Ivanov | Data Engineer
 
 ### Контакты
 [LinkedIn](https://www.linkedin.com/in/nikita-ivanov-699102298) | [Telegram](https://t.me/Ironjoni) | [Telegram channel](https://t.me/joni_in_web) | [Email](mailto:nikita@example.com)
